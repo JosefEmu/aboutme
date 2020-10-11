@@ -1,0 +1,33 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+body {
+	/*font-family: 'Fredoka One', cursive;*/
+	font-family: 'Jua', cursive;
+	font-size: 160%;
+	background-color: #df5a49;
+	color:white;
+	margin:0 auto; 
+	max-width: 800px;
+	padding-top: 10%
+	}
+
+@keyframes fadein {
+  0% {opacity: 0;}
+  100% {opacity: 1}
+}
+
+h6 {
+	animation-name: fadein;
+	animation-duration: 5s;
+	animation-delay: -3s;
+	animation-iteration-count: infinite;
+	color: #e3e1df;
+}
+
+hr {
+	margin-top: 10%;
+}
+img {
+	width: 32px;
+}
