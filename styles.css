@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+/*html, body {
+    height: 100%;
+}*/
+
+body {
+	margin:0 auto;
+	font-family: 'Fredoka', display;
+	background-color: #df5a49;
+	color:white;
+	}
