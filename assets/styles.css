@@ -41,6 +41,7 @@ img {
 }
 .my-projects {
 	border:solid;
+	display:flex;
 }
 .project {
 	width:10%;
