@@ -42,7 +42,12 @@ img {
 .my-projects {
 	border:solid;
 	display:flex;
+	flex-direction:row;
+	text-align:center;
 }
+
+@
+
 .project {
 	width:10%;
 	height:20%;
@@ -51,6 +56,11 @@ img {
 	background-color:black;
 }
 
+@media (max-width: 800px) {
+  .my-projects {
+    flex-direction: column;
+  }
+	
 a {
 	color:white;
 }
