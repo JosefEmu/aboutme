@@ -10,7 +10,7 @@ body {
 	font-family: 'Fredoka One', cursive;
 /* 	font-family: 'Jua', cursive; */
 	font-size: 120%;
-	background: linear-gradient(50 deg,#df5a49,#ff6a00);
+	background: linear-gradient(50deg,#df5a49,#ff6a00);
 	background-repeat: no-repeat;
 /* 	background-color: #df5a49; */
 	color:white;
@@ -41,8 +41,9 @@ img {
 }
 
 #project-1 {
-	width:10%;
-	height:10%;
+	width:20%;
+	height:20%;
+	padding:5px;
 	color: white;
 	background-color:black;
 }
