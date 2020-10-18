@@ -1,9 +1,9 @@
-/*@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');*/
-@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Jua&display=swap'); */
 
 body {
-	/*font-family: 'Fredoka One', cursive;*/
-	font-family: 'Jua', cursive;
+	font-family: 'Fredoka One', cursive;
+/* 	font-family: 'Jua', cursive; */
 	font-size: 160%;
 	background: linear-gradient(135deg,#ee0979,#ff6a00);
 /* 	background-color: #df5a49; */
