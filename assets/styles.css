@@ -9,7 +9,7 @@ html {
 body {
 	font-family: 'Fredoka One', cursive;
 /* 	font-family: 'Jua', cursive; */
-	font-size: 160%;
+	font-size: 120%;
 	background: linear-gradient(50 deg,#df5a49,#ff6a00);
 	background-repeat: no-repeat;
 /* 	background-color: #df5a49; */
@@ -48,5 +48,24 @@ img {
 }
 
 a {
-	text-decoration: none;
+	color:white;
 }
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+
+a:hover {
+  text-decoration: none;
+}
+
+
+a:active {
+  text-decoration: none;
+}
+
