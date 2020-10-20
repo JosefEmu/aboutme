@@ -10,11 +10,10 @@ body {
 	font-family: 'Fredoka One', sans-serif;
 	font-size: 120%;
 	background: linear-gradient(105deg,#d92a13,#ff791a);
-	background-repeat: no-repeat;
+  	background-attachment: fixed;  
 	color:white;
 	margin:0 auto; 
 	max-width: 800px;
-/* 	min-height: 100%; */
 	padding-top: 10%
 	}
 
