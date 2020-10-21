@@ -1,10 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
-/* @import url('https://fonts.googleapis.com/css2?family=Jua&display=swap'); */
+
 html {
     height: 100%;
     margin: 0;
 }
 
+@keyframes fadein {
+  0% {opacity: 0;}
+  100% {opacity: 1}
+}
 
 body {
 	font-family: 'Fredoka One', sans-serif;
@@ -17,11 +21,6 @@ body {
 	padding-top: 10%
 	}
 
-@keyframes fadein {
-  0% {opacity: 0;}
-  100% {opacity: 1}
-}
-
 h6 {
 	animation-name: fadein;
 	animation-duration: 5s;
@@ -31,23 +30,11 @@ h6 {
 }
 
 hr {
-	margin-top: 10%;
+	border: 1px solid #ffffff;
 }
+
 img {
 	width: 32px;
-}
-.my-projects {
-	border:solid;
-	padding:1%;
-}
-.project {
-	width: 100px;
-    	height: 100px;
-    	padding: 4%;
-    	display: inline-grid;
-    	background: #FF5722;
-    	border-radius: 10%;
-    	margin: 1%;
 }
 
 a {
@@ -62,12 +49,25 @@ a:visited {
   text-decoration: none;
 }
 
-
 a:hover {
   text-decoration: none;
 }
 
-
 a:active {
   text-decoration: none;
+}
+
+.my-projects {
+	border:solid;
+	padding:1%;
+}
+
+.project {
+	width: 100px;
+    	height: 100px;
+    	padding: 4%;
+    	display: inline-grid;
+    	background: #FF5722;
+    	border-radius: 10%;
+    	margin: 1%;
 }
