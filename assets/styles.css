@@ -21,6 +21,11 @@ body {
 	padding-top: 10%
 	}
 
+/*TODO
+Change background gradient to peach or coral
+- https://en.wikipedia.org/wiki/Coral_(color)
+- https://en.wikipedia.org/wiki/Peach_(color)*/
+
 h6 {
 	animation-name: fadein;
 	animation-duration: 5s;
