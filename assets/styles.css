@@ -38,7 +38,7 @@ img {
 }
 
 a {
-	color:white;
+	color:#ff7b51;
 }
 
 a:link {
@@ -67,7 +67,7 @@ a:active {
     	height: 100px;
     	padding: 4%;
     	display: inline-grid;
-    	background: #ff7b51;
+    	background: white;
     	border-radius: 10%;
     	margin: 1%;
 }
