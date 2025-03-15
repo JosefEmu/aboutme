@@ -2,5 +2,5 @@
 Successful commit using Github pages
 
 ```cmd
-more to come
+This is a showcase of my recent works and projects.
 ```
